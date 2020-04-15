@@ -21,4 +21,6 @@ My experience is therefore quite broad, I am a full-stack developer, certified s
 
 I will at times reference my other blog, [fullstack.dev](https://fullstack.dev) which focuses on the more technical side of things. I chose carefully to separate these blogs so that this one doesn't descend into purely engineering discussions, which I think is a temptation for most developers.
 
-If ther
+If there is any particular content you'd like to see, reach out to me on [Twitter](https://twitter.com/aphumphreys) or drop me an [email](mailto:anthony@lexio.app?subject=AnthonyHumphreys.dev%20Content%20Suggestion).
+
+Thanks for visiting!
