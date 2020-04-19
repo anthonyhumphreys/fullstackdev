@@ -1,11 +1,11 @@
 ---
-title: FullStack.dev
+title: FullStackApp.dev
 category: "announcements"
 cover: hello.jpg
 author: Anthony Humphreys
 ---
 
-# Welcome to FullStack.dev
+# Welcome to FullStackApp.dev
 
 ## What to expect
 
@@ -21,6 +21,6 @@ My experience is therefore quite broad, I am a full-stack developer, certified s
 
 I will at times reference my other blog, [AnthonyHumphreys.dev](https://anthonyhumphreys.dev) which focuses on the human side of development, from soft skills to Agile and developer experiences.
 
-If there is any particular content you'd like to see, reach out to me on [Twitter](https://twitter.com/aphumphreys) or drop me an [email](mailto:anthony@lexio.app?subject=FullStack.dev%20Content%20Suggestion).
+If there is any particular content you'd like to see, reach out to me on [Twitter](https://twitter.com/aphumphreys) or drop me an [email](mailto:anthony@lexio.app?subject=FullStackApp.dev%20Content%20Suggestion).
 
 Thanks for visiting!

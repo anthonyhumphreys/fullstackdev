@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: "FullStack.dev", // <title>
-  shortSiteTitle: "FullStack.dev", // <title> ending for posts and pages
+  siteTitle: "FullStackApp.dev", // <title>
+  shortSiteTitle: "FullStackApp.dev", // <title> ending for posts and pages
   siteDescription: "Front-end, back-end and everything in between",
-  siteUrl: "https://fullstack.dev",
+  siteUrl: "https://FullStackApp.dev",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
@@ -33,6 +33,6 @@ module.exports = {
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/anthonyhumphreys" },
-    { name: "twitter", url: "https://twitter.com/aphumphreys" },
-  ],
+    { name: "twitter", url: "https://twitter.com/aphumphreys" }
+  ]
 };

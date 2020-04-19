@@ -14,7 +14,7 @@ const Hero = props => {
         <h1>
           Welcome to{" "}
           <pre style={{ fontFamily: "dm" }}>
-            <strong>FullStack.dev</strong>
+            <strong>FullStackApp.dev</strong>
           </pre>
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
