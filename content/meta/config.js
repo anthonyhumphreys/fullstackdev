@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: "AnthonyHumphreys.dev", // <title>
-  shortSiteTitle: "AnthonyHumphreys.dev", // <title> ending for posts and pages
-  siteDescription: "Ramblings of a developer",
-  siteUrl: "https://AnthonyHumphreys.dev",
+  siteTitle: "FullStack.dev", // <title>
+  shortSiteTitle: "FullStack.dev", // <title> ending for posts and pages
+  siteDescription: "Front-end, back-end and everything in between",
+  siteUrl: "https://fullstack.dev",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
@@ -12,8 +12,8 @@ module.exports = {
   authorTwitterAccount: "aphumphreys",
 
   /* info */
-  headerTitle: "AnthonyHumphreys.dev",
-  headerSubTitle: "Ramblings of a developer",
+  headerTitle: "FullStack.dev",
+  headerSubTitle: "Front-end, back-end and everything in between",
 
   /* manifest.json */
   manifestName: "AnthonyHumphreys.dev",
@@ -33,6 +33,6 @@ module.exports = {
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/anthonyhumphreys" },
-    { name: "twitter", url: "https://twitter.com/aphumphreys" }
-  ]
+    { name: "twitter", url: "https://twitter.com/aphumphreys" },
+  ],
 };

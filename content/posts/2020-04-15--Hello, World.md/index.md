@@ -1,5 +1,5 @@
 ---
-title: AnthonyHumphreys.dev
+title: FullStack.dev
 category: "announcements"
 cover: hello.jpg
 author: Anthony Humphreys
